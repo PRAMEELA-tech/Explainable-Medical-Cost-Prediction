@@ -152,15 +152,16 @@ They must be run in separate terminals.
 cd Medical_Cost_Project/api
 pip install -r requirements.txt
 uvicorn app:app --reload --port 8000
-
+```
 API documentation available at:
 http://localhost:8000/docs
 
 Open a new terminal:
+```bash
 cd Medical_Cost_Project/ui
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 🏆 Academic Highlights
 Full machine learning lifecycle implementation
 Model comparison & hyperparameter tuning
