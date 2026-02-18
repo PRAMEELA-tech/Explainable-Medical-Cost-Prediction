@@ -191,7 +191,9 @@ streamlit run app.py
 - Kaggle API credentials are not included for security reasons.
 - Backend and frontend use separate requirements.txt files for modular architecture.
 ---
-#👩‍💻 Author
-Ginni Prameela
-B.Tech 
-Machine Learning & Explainable AI
+
+## Author
+
+Ginni Prameela 
+B.Tech CSE  
+Explainable AI Project
