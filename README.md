@@ -164,32 +164,34 @@ streamlit run app.py
 ```
 ---
 
-🏆 Academic Highlights
-Full machine learning lifecycle implementation
-Model comparison & hyperparameter tuning
-Explainability as a core design principle
-Structured explanation pipeline
-Industry-style backend–frontend separation
-Deployment-ready architecture
+# 🏆 Academic Highlights
+- Full machine learning lifecycle implementation
+- Model comparison & hyperparameter tuning
+- Explainability as a core design principle
+- Structured explanation pipeline
+- Industry-style backend–frontend separation
+- Deployment-ready architecture
 ---
 
-⚠ Limitations
-Small dataset (~1338 records)
-Limited health-related features
-No real-time insurance database integration
+
+# ⚠ Limitations
+- Small dataset (~1338 records)
+- Limited health-related features
+- No real-time insurance database integration
 ---
-🔮 Future Improvements
-Add SHAP visual plots inside UI
-Deploy on cloud platform (AWS / Render / Railway)
-Add Docker containerization
-Extend to larger healthcare datasets
+
+# 🔮 Future Improvements
+- Add SHAP visual plots inside UI
+- Deploy on cloud platform (AWS / Render / Railway)
+- Add Docker containerization
+- Extend to larger healthcare datasets
 ----
-📌 Repository Notes
-Dataset excluded to keep repository lightweight.
-Kaggle API credentials are not included for security reasons.
-Backend and frontend use separate requirements.txt files for modular architecture.
+# 📌 Repository Notes
+- Dataset excluded to keep repository lightweight.
+- Kaggle API credentials are not included for security reasons.
+- Backend and frontend use separate requirements.txt files for modular architecture.
 ---
-👩‍💻 Author
+#👩‍💻 Author
 Ginni Prameela
 B.Tech 
 Machine Learning & Explainable AI
